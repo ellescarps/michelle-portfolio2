@@ -1,0 +1,53 @@
+/* this is the about page css below */
+.pic {
+    display: inline-block;
+    height: 120px;
+    border: dotted 12px darkgoldenrod;
+    margin-left: 290px;
+}
+
+.bkgd {
+    background-color: rgb(112, 59, 165);
+}
+
+.abouth1 {
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy
+}
+
+.abouth2 {
+    color: burlywood;
+    font-family: fantasy
+}
+
+nav {
+    text-align: end;
+    color: purple;
+    background-color: lavenderblush;
+}
+
+.abouttb1 {
+    color: antiquewhite;
+}
+
+.abouttb2 {
+    color: antiquewhite;
+}
+
+.creative {
+    color: burlywood;    display: inline-block;
+}
+
+.tech {
+    color: burlywood;    display: inline-block;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between
+}
+
+.name {
+    margin-left: 10px;
+}
