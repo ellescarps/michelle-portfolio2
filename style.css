@@ -146,3 +146,25 @@ p {
     text-align: center;
     font-style: italic;
 }
+
+/* this is the contact me css page below */
+
+.contact {
+    color: burlywood;
+    text-align: center;
+    font-size: 40px; 
+    font-family: fantasy
+}
+
+.p4 {
+    background-color: rgb(130, 77, 179);
+    text-align: center;
+}
+
+.form {
+    color: burlywood;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
+}
+
