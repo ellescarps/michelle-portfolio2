@@ -168,17 +168,19 @@ p {
     
 }
 
-/* this is the contact css page below */
+/* this is the success css page below  */
 .info {
     padding: 100px;
     margin: 100px;
+}
 
-.contacth1 {
+.successh1 {
     color: burlywood;
     text-align: center;
     font-family: fantasy
 }
 
-.contacth2 {
+.successh2 {
     text-align: center;
 }
+
