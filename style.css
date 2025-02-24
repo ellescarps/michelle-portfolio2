@@ -51,3 +51,49 @@ nav {
 .name {
     margin-left: 10px;
 }
+
+/* this is the index/home page css below */
+.pic2 {
+    height: 120px;
+    border: dotted 12px darkgoldenrod;
+    margin-top: 10px;
+    margin-left: 1018px;
+
+}
+
+body {
+    background-color: rgb(112, 59, 165);
+}
+
+.indexh1 {
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy
+}
+
+.indexh2 {
+    text-align: center;
+    color: burlywood;
+    font-size: xx-large;
+    font-family: fantasy
+}
+
+nav {
+    text-align: end;
+    color: purple;
+    background-color: lavenderblush;
+}
+
+table {
+    color: antiquewhite;
+}
+
+p {
+    color: burlywood;    display: inline-block;
+}
+
+.indexh3 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
