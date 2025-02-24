@@ -168,3 +168,17 @@ p {
     
 }
 
+/* this is the contact css page below */
+.info {
+    padding: 100px;
+    margin: 100px;
+
+.contacth1 {
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy
+}
+
+.contacth2 {
+    text-align: center;
+}
