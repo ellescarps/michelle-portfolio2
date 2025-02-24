@@ -50,6 +50,55 @@ nav {
 
 .name {
     margin-left: 10px;
+    
+}/* this is the portfolio css page below */
+
+.title {
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy
+}
+
+.portbody {
+    background-color: blueviolet;
+}
+
+.port1 {
+    text-align: center;
+    color: burlywood;
+    font-size: xx-large;
+    font-family: fantasy
+}
+
+.wrap {
+    text-align: center;
+}
+
+.pad {
+    padding: 10px;
+} 
+
+.proj {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.p {
+    color: burlywood;    display: inline-block;
+}
+
+.propics {
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+
+
+
 }
 
 /* this is the index/home page css below */
