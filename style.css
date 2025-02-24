@@ -168,3 +168,20 @@ p {
     
 }
 
+
+/* this is the success css page below  */
+.info {
+    padding: 100px;
+    margin: 100px;
+}
+
+.successh1 {
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy
+}
+
+.successh2 {
+    text-align: center;
+}
+
